@@ -1,5 +1,5 @@
 from telebot import *
-import config
+import config # create a python file and write your token in it. For example token = <your token>
 
 bot = TeleBot(config.token)
 
