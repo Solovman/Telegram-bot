@@ -1,2 +1,2 @@
-# Telegram_bot
+# Telegram bot
 Simplest echo bot with /start and /help commands
